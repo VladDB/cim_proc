@@ -10,13 +10,8 @@ build/CPackSourceConfig.cmake
 build/CTestTestfile.cmake
 build/DartConfiguration.tcl
 build/.cmake/api/v1/query/client-vscode/query.json
-build/.cmake/api/v1/reply/cache-v2-1afeea51886695a44d25.json
-build/.cmake/api/v1/reply/cmakeFiles-v1-63c759633d5b3254c512.json
-build/.cmake/api/v1/reply/codemodel-v2-ffca3c5e83fc54fa73e2.json
 build/.cmake/api/v1/reply/directory-.-Debug-d0094a50bb2071803777.json
-build/.cmake/api/v1/reply/index-2024-02-07T14-29-27-0835.json
 build/.cmake/api/v1/reply/target-cim_proc-Debug-e76ece7e7345579486ac.json
-build/.cmake/api/v1/reply/toolchains-v1-804f3c44f1e38dfb3867.json
 build/CMakeFiles/cmake.check_cache
 build/CMakeFiles/CMakeConfigureLog.yaml
 build/CMakeFiles/rules.ninja
